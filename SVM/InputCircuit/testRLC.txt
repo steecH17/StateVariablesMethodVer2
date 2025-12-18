@@ -1,0 +1,5 @@
+J CurrentSource 0.01 0 2
+L Inductor 0.001 2 1
+R1 Resistor 100 1 0
+R2 Resistor 200 2 0
+C Capacitor 0.001 2 0

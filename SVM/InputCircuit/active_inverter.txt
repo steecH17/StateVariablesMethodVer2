@@ -1,0 +1,9 @@
+// Task 5
+V_dd V 5.0 3 0
+U_in V 3.0 1 0
+R_load R 1000 3 2
+J_mos VCCS 0.02 2 0 1 0
+C_gs C 2e-12 1 0
+C_gd C 1e-12 1 2
+C_ds C 1e-12 2 0
+C_load C 5e-12 2 0

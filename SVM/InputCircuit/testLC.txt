@@ -1,0 +1,2 @@
+C Capacitor 1 1 2
+L Inductor 1 2 1

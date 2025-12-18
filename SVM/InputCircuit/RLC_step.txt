@@ -1,0 +1,4 @@
+U_src V 10 1 0
+R1 R 5 1 2
+L1 Inductor 0.001 2 3
+C1 Capacitor 10e-6 3 0
